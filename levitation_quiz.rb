@@ -1,7 +1,7 @@
 
 def levitation_quiz
     puts "What is the spell that enacts levitation?"
-    answer = gets 
+    gets.chomp
     puts "You passed the quiz! "
 end 
 
