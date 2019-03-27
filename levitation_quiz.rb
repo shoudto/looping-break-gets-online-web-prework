@@ -1,6 +1,6 @@
 
 def levitation_quiz
-	while 
+	puts "" 
 end
 
 
