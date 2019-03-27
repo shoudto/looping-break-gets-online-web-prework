@@ -1,6 +1,6 @@
 
 def levitation_quiz
-  while
+  if 
     puts "What is the spell that enacts levitation?"
     Wingardium Leviosa = gets
   end
